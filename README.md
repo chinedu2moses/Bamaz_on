@@ -36,4 +36,5 @@ If not, the app should log a phrase like Insufficient quantity!, and then preven
 However, if your store does have enough of the product, you should fulfill the customer's order.
 
 This means updating the SQL database to reflect the remaining quantity. Once the update goes through, show the customer the total cost
+![image](https://github.com/chinedu2moses/Bamaz_on/blob/master/img/bamazon%20screen%20print.PNG)
 ![image]()
